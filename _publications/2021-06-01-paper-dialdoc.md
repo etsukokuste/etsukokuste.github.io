@@ -8,7 +8,7 @@ venue: 'DialDoc Workshop in ACL 2021'
 paperurl: 'https://arxiv.org/abs/2106.03530'
 authors: 'Etsuko Ishii, Yan Xu, Genta Indra Winata, Zhaojiang Lin, Andrea Madotto, Zihan Liu, Peng Xu, Pascale Fung'
 paper: 'https://arxiv.org/pdf/2106.03530.pdf'
-code: 
+code: 'https://github.com/HLTCHKUST/CAiRE_in_DialDoc21'
 citation: 
 award: 'Third Place in the Shared Task'
 ---
