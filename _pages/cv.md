@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV in PDF [here](https://github.com/etsukokuste/etsukokuste.github.io/blob/master/files/Etsuko_Ishii_Resume.pdf).
+You can download my CV in PDF [here](http://etsukokuste.github.io/files/Etsuko_Ishii_Resume.pdf).
 
-U+1F393 Education
+🎓 Education
 ======
 * Ph.D Candidate in Electronic & Computer Engineering, The Hong Kong University of Science and Technology, 2019 - Current. 
   * Superviser: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk)
