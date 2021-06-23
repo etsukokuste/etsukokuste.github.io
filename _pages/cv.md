@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV in PDF [here](http://etsukokuste.github.io/files/Etsuko_Ishii_Resume.pdf).
+You can download my full CV in PDF [here](http://etsukokuste.github.io/files/Etsuko_Ishii_Resume.pdf).
 
 🎓 Education
 ======
@@ -22,8 +22,9 @@ You can download my CV in PDF [here](http://etsukokuste.github.io/files/Etsuko_I
 
 
 
-👩🏻‍💻 Work experience
+👩🏻‍💻 Research Experience
 ======
+* Winter 2021: Visiting Researcher at Kyoto University under [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/EN/).
 * Summer 2018 & 2019: Research Intern at IBM Research AI, Tokyo.
 * Winter 2018: Research Intern at HKUST under Prof. Pascale Fung.
 * Summer 2017: Undergraduate Research Assistant at Rice University under [Prof. Devika Subramanian](https://www.cs.rice.edu/~devika/).
