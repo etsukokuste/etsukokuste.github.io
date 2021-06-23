@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my full publication on [here](https://scholar.google.com/citations?user=eY9gm7QAAAAJ&hl=ja&oi=ao).
+You can also find my full publication list [here](https://scholar.google.com/citations?user=eY9gm7QAAAAJ&hl=ja&oi=ao).
 
 
 {% include base_path %}
