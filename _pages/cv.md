@@ -13,9 +13,9 @@ You can download my full CV in PDF [here](http://etsukokuste.github.io/files/Ets
 
 🎓 Education
 ======
-* Ph.D Candidate in Electronic & Computer Engineering, The Hong Kong University of Science and Technology, 2019 - Current. 
+* Ph.D. Candidate in Electronic & Computer Engineering, The Hong Kong University of Science and Technology, 2019 - Present. 
   * Superviser: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk)
-  * Topic: NLP, Dialogue System
+  * Topic: NLP, Dialogue System, Question Answering
 * B.Eng. in Applied Mathematics, The University of Tokyo, 2019. 
   * Superviser: [Prof. Kazuyuki Aihara](https://ircn.jp/en/mission/people/kazuyuki_aihara)
   * Bachelor Thesis: "Mathematical Analysis on Echo State Networks for Time Series Prediction"
