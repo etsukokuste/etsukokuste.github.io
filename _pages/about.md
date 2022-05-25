@@ -16,8 +16,5 @@ The pronunciation of "Etsuko (/etsɯᵝko/)" is similar to "Let's go"; drop the 
 
 News
 ======
-* 2 papers are accepted in SIGDIAL 2021.
-* Received 3rd place in DialDoc-21 Workshop Shared Task.
-* 1 paper is accepted in CONSTRAINT Workshop in AAAI 2021.
-* 1 long paper is accepted in EMNLP 2020 findings.
-* 1 paper is accepted in LREC 2020.
+* Received the best student paper award in DialDoc-22 Workshop @ ACL 2022.
+* 3 papers are accepted in ACL 2022 workshops - (SRW, Insights, DialDoc)
