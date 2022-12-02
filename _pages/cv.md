@@ -24,6 +24,7 @@ You can download my full CV in PDF [here](http://etsukokuste.github.io/files/Ets
 
 👩🏻‍💻 Research Experience
 ======
+* Fall 2022: Research Intern at Amazon Web Services, New York, USA.
 * Winter 2021: Visiting Researcher at Kyoto University under [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/EN/).
 * Summer 2018 & 2019: Research Intern at IBM Research AI, Tokyo.
 * Winter 2018: Research Intern at HKUST under Prof. Pascale Fung.
