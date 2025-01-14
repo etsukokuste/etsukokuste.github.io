@@ -13,9 +13,10 @@ You can download my full CV in PDF [here](http://etsukokuste.github.io/files/Ets
 
 🎓 Education
 ======
-* Ph.D. Candidate in Electronic & Computer Engineering, The Hong Kong University of Science and Technology, 2019 - Present. 
+* Ph.D. in Electronic & Computer Engineering, The Hong Kong University of Science and Technology, 2024. 
   * Superviser: [Prof. Pascale Fung](https://pascale.home.ece.ust.hk)
   * Topic: NLP, Dialogue System, Question Answering
+  * PhD Thesis: "Understanding Context in Conversational AI"
 * B.Eng. in Applied Mathematics, The University of Tokyo, 2019. 
   * Superviser: [Prof. Kazuyuki Aihara](https://ircn.jp/en/mission/people/kazuyuki_aihara)
   * Bachelor Thesis: "Mathematical Analysis on Echo State Networks for Time Series Prediction"
@@ -24,7 +25,8 @@ You can download my full CV in PDF [here](http://etsukokuste.github.io/files/Ets
 
 👩🏻‍💻 Research Experience
 ======
-* Fall 2022 & Summer 2023: Research Intern at Amazon Web Services, New York, USA.
+* Fall 2024 - Present: Applied Scientist at Amazon Web Services, New York, USA.
+* Fall 2022 & Summer 2023: Applied Scientist Intern at Amazon Web Services, New York, USA.
 * Winter 2021: Visiting Researcher at Kyoto University under [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/EN/).
 * Summer 2018 & 2019: Research Intern at IBM Research AI, Tokyo.
 * Winter 2018: Research Intern at HKUST under Prof. Pascale Fung.
